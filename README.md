@@ -1,5 +1,5 @@
 # app-dev
-##My first repository
+## My first repository
 
 **Favorite Series**
 - Queen of Tears
